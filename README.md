@@ -1,7 +1,10 @@
+![Banner](https://github.com/rvbug/rvbug/blob/main/QM.png)
+
 # Hello there, I am Rakesh.
 ### From emacs to Quantum Computing and everything in between
 
 <!-- banner here  -->
+
 
 
 

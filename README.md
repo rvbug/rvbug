@@ -1,4 +1,8 @@
 # Hello there, I am Rakesh.
+### From emacs to Quantum Computing and everything in between
+
+<!-- banner here  -->
+
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbug&layout=compact" />

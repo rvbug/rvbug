@@ -4,6 +4,3 @@
 
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=rvbug&show_icons=true&theme=dark" />
-<p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbug&layout=compact" />
-

@@ -1,5 +1,5 @@
 
-#### Hello there, I work on `emacs` to `Quantum Computing` - and everthing in between
+#### Hello there, I am Rakesh!
 <img align="center" width="40%" src="https://github.com/rvbug/rvbug/blob/main/QM.png" />
 
 

@@ -19,6 +19,17 @@
 * [Structuring Data Science and ML Projects](https://medium.com/@rakesh.venkat/structuring-data-science-and-ml-projects-363542551bd2?source=rss-6438731415e0------2)
 <!-- BLOG-POST-LIST:END -->
 
+
+ <!-- Connect with me 
+ <h3 align="left">Connect with me:</h3>
+ <p align="left">
+  
+ <a href="https://twitter.com/rvbugged" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="rvbugged" height="30" width="30" /></a>
+ <a href="https://linkedin.com/in/idinc" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+ <a href="https://hashnode.com/@kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/hashnode.svg" alt="kmhmubin" height="30" width="30" /></a>
+ -->
+  
+ </p>
   <!-- retro visitor counter -->
 # Vistor Count
  <p align="left"> 

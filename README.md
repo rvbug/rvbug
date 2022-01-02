@@ -7,7 +7,7 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbug"  />
 
-  
+<p> <p> <br>
 # My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Structuring Data Science and ML Projects](https://medium.com/@rakesh.venkat/structuring-data-science-and-ml-projects-363542551bd2?source=rss-6438731415e0------2)

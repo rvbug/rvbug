@@ -6,7 +6,7 @@
 -->
  # Hello there, I am Rakesh!
  <p align="center"> 
-  <img width="100%" src="https://github.com/rvbug/rvbug/blob/main/Untitled%20design.png" /> 
+  <img width="100%" src="https://github.com/rvbug/rvbug/blob/main/profile.gif" /> 
  </p>
 
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=rvbug&show_icons=true&theme=dark" />

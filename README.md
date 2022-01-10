@@ -16,6 +16,7 @@
 ----
 # My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ML - Cookie Cutter](https://rvbug.hashnode.dev/ml-cookie-cutter)
 - [Structuring Data Science and ML Projects](https://rvbug.hashnode.dev/structuring-data-science-and-ml-projects)
 <!-- BLOG-POST-LIST:END -->
 

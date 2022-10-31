@@ -2,6 +2,9 @@
 <img align="center" width="40%" src="https://github.com/rvbug/rvbug/blob/main/QM.png" /> 
 -->
 # Hello there, I am Rakesh!
+<br>
+Like working on various technology and blog about it
+
 <p align="center"> 
   <!-- <img width="50%" src="" />  -->
 </p>

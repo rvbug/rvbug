@@ -1,22 +1,17 @@
-
-
-
 <!--
 <img align="center" width="40%" src="https://github.com/rvbug/rvbug/blob/main/QM.png" /> 
 -->
- # Hello there, I am Rakesh!
- <p align="center"> 
+# Hello there, I am Rakesh!
+<p align="center"> 
   <!-- <img width="50%" src="" />  -->
- </p>
+</p>
 
----
 
 ## Contact Me @
 <p align="left">
  
 <a href="https://www.linkedin.com/in/idinc/" target="_blank">![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/rvbugged" target="_blank">![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 </p>
 
@@ -84,6 +79,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [ML - Cookie Cutter](https://rvbug.hashnode.dev/ml-cookie-cutter)
 - [Structuring Data Science and ML Projects](https://rvbug.hashnode.dev/structuring-data-science-and-ml-projects)
+- [Research ECPE](https://rvbug.hashnode.dev/ml-research-emotional-cause-pair-extraction-ecpe)
+- [Building Recommendation System - Part 1](https://rvbug.hashnode.dev/recommendation-systems-part-i)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -14,7 +14,9 @@ Like working on various technology and blog about it
 <p align="left">
  
 <a href="https://www.linkedin.com/in/idinc/" target="_blank">![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://twitter.com/rvbugged" target="_blank">![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/rvbugged" target="_blank">![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=rvbug&style=flat-square&color=blue" alt=""/>
+
 
 </p>
 

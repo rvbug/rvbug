@@ -6,13 +6,17 @@
 -->
  # Hello there, I am Rakesh!
  <p align="center"> 
-  <img width="50%" src="https://github.com/rvbug/rvbug/blob/main/profile.gif" /> 
+  <!-- <img width="50%" src="" />  -->
  </p>
 
 ---
+
+## Contact Me @
 <p align="left">
-<a href="https://twitter.com/rvbugged" target="_blank"><img height="30" src=" "></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/idinc/" target="_blank"><img height="30" src=" "></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+<a href="https://www.linkedin.com/in/idinc/" target="_blank">![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/rvbugged" target="_blank">![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </p>
 
@@ -48,13 +52,12 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![LaTeX](https://img.shields.io/badge/-latex-000?logo=latex)
 ---
-## Technologies
+## Other Tech
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Kafka)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![ApacheCassandra](https://img.shields.io/badge/-cassandra-000?logo=apache-cassandra)
 ![Nginx](https://img.shields.io/badge/-nginx-000?logo=nginx)
@@ -68,12 +71,6 @@
 ## Productivity
 
 ![Notion](https://img.shields.io/badge/-Notion-000?logo=notion)
-
-
----
-## Social
-![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)
-
 
 ---
 ## Stats

@@ -15,62 +15,19 @@ Like working on various technology and blog about it
  
 <a href="https://www.linkedin.com/in/idinc/" target="_blank">![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/rvbugged" target="_blank">![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=rvbug&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=rvbug&style=flat-square&color=blue" alt=""/> -->
 
-
-</p>
-
----
- ## Languages
+ ## Tech Stack  
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![Shell Script](https://img.shields.io/badge/-shell_script-000?logo=gnu-bash)
----
-## IDE
-![Emacs](https://img.shields.io/badge/-Emacs-000?logo=gnu-emacs)
-![Org Mode](https://img.shields.io/badge/-orgmode-000?logo=org)
-![Jupyter Notebook](https://img.shields.io/badge/-jupyter-000?logo=jupyter)
-![Neovim](https://img.shields.io/badge/-NeoVim-000?logo=neovim)
-![PyCharm](https://img.shields.io/badge/-pycharm-000?logo=pycharm)
-![Xcode](https://img.shields.io/badge/-Xcode-000?logo=Xcode)
-
----
-## ML
-![Kaggle](https://img.shields.io/badge/-Kaggle-000?logo=kaggle)
-![Keras](https://img.shields.io/badge/-Keras-000?logo=Keras)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?logo=Matplotlib)
-![mlflow](https://img.shields.io/badge/-mlflow-000?logo=mlflow)
-![NumPy](https://img.shields.io/badge/-numpy-000?logo=numpy)
-![Pandas](https://img.shields.io/badge/-pandas-000?logo=pandas)
-![SciPy](https://img.shields.io/badge/-SciPy-000?logo=scipy)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![LaTeX](https://img.shields.io/badge/-latex-000?logo=latex)
----
-## Other Tech
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![ApacheCassandra](https://img.shields.io/badge/-cassandra-000?logo=apache-cassandra)
-![Nginx](https://img.shields.io/badge/-nginx-000?logo=nginx)
 ![MySQL](https://img.shields.io/badge/-mysql-000?logo=mysql)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?logo=apachekafka)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?logo=elasticsearch)
-![Jenkins](https://img.shields.io/badge/-jenkins-000?logo=jenkins)
 
-
----
-## Productivity
-
-![Notion](https://img.shields.io/badge/-Notion-000?logo=notion)
 
 ---
 ## Stats

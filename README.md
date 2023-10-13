@@ -10,7 +10,7 @@ Like working on various technology and blog about it
 </p>
 
 
-## Contact Me @
+## Contact @
 <p align="left">
  
 <a href="https://www.linkedin.com/in/idinc/" target="_blank">![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

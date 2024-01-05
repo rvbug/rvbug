@@ -28,7 +28,6 @@ Like working on various technology and blog about it
 ![MySQL](https://img.shields.io/badge/-mysql-000?logo=mysql)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?logo=apachekafka)
 
-
 ---
 ## Stats
 

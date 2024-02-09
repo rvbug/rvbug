@@ -2,31 +2,25 @@
 <img align="center" width="40%" src="https://github.com/rvbug/rvbug/blob/main/QM.png" /> 
 -->
 # Hello there, I am Rakesh!
-<br>
-Like working on various technology and blog about it
+
 
 <p align="center"> 
   <!-- <img width="50%" src="" />  -->
 </p>
 
-
 ## Contact @
-<p align="left"> 
- 
-<a href="https://www.linkedin.com/in/idinc/" target="_blank">![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://twitter.com/rvbugged" target="_blank">![Twitter](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter)</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://komarev.com/ghpvc/?username=rvbug&style=flat-square&color=blue" alt=""/> -->
+<p align="center"> <img src="https://img.shields.io/badge/Rakesh-00aced.svg?style=flat&logo=linkedin"> 
+<img src="https://img.shields.io/badge/Twitter-@rvbugged-181717.svg?style=flat&logo=Twitter"> </p>
 
- ## Tech Stack  
-
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![MySQL](https://img.shields.io/badge/-mysql-000?logo=mysql)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?logo=apachekafka)
+## Stack
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-C-000?&logo=C">
+  <img src="https://img.shields.io/badge/-Rust-000?&logo=Rust">
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python">
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style-plastic-green&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style-plastic-green&logo=ocaml&logoColor=white">
+  <img src="https://img.shields.io/badge/swift-F54A2A?style-plastic-green&logo=swift&logoColor=white">
+</p>
 
 ---
 ## Stats

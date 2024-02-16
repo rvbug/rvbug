@@ -12,7 +12,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/Rakesh-00aced.svg?style=flat&logo=linkedin"> 
 <img src="https://img.shields.io/badge/Twitter-@rvbugged-181717.svg?style=flat&logo=Twitter"> </p>
 
-## Stack
+## Tech Stack
 <p align="center"> 
   <img src="https://img.shields.io/badge/-C-000?&logo=C">
   <img src="https://img.shields.io/badge/-Rust-000?&logo=Rust">

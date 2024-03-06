@@ -31,12 +31,16 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rvbug&theme=dark)](https://git.io/streak-stats) -->
 
 ---
+
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Neovim](https://rvbug.hashnode.dev/configuring-neovim)
+- [Building Recommendation System - Part 1](https://rvbug.hashnode.dev/recommendation-systems-part-i)
+- [Research ECPE](https://rvbug.hashnode.dev/ml-research-emotional-cause-pair-extraction-ecpe)
 - [ML - Cookie Cutter](https://rvbug.hashnode.dev/ml-cookie-cutter)
 - [Structuring Data Science and ML Projects](https://rvbug.hashnode.dev/structuring-data-science-and-ml-projects)
-- [Research ECPE](https://rvbug.hashnode.dev/ml-research-emotional-cause-pair-extraction-ecpe)
-- [Building Recommendation System - Part 1](https://rvbug.hashnode.dev/recommendation-systems-part-i)
+
+
 <!-- BLOG-POST-LIST:END -->
 
 

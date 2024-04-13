@@ -34,14 +34,16 @@
 
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 <!-- BLOG-POST-LIST:START -->
-- [Configuring Neovim](https://rvbug.hashnode.dev/configuring-neovim)
+
+- [Dotfile Management](https://rvbug.hashnode.dev/productivity-series-ii-dotfiles)
+- [ML Cookie-Cutter v 2.0](https://rvbug.hashnode.dev/ml-cookie-cutter-v-20)
+- [Configuring Neovim IDE](https://rvbug.hashnode.dev/configuring-neovim)  
 - [Building Recommendation System - Part 1](https://rvbug.hashnode.dev/recommendation-systems-part-i)
 - [ML Research - ECPE](https://rvbug.hashnode.dev/ml-research-emotional-cause-pair-extraction-ecpe)
 - [ML - Cookie Cutter](https://rvbug.hashnode.dev/ml-cookie-cutter)  
-- [ML Cookie-Cutter v 2.0](https://rvbug.hashnode.dev/ml-cookie-cutter-v-20)  
 - [ML - Structuring DS & ML Projects](https://rvbug.hashnode.dev/structuring-data-science-and-ml-projects)  
-- [Configuring Neovim IDE](https://rvbug.hashnode.dev/configuring-neovim)  
-- [Dotfile Management](https://rvbug.hashnode.dev/productivity-series-ii-dotfiles)  
+
+ 
 
 
 <!-- BLOG-POST-LIST:END -->

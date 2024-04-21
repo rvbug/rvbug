@@ -35,6 +35,7 @@
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 <!-- BLOG-POST-LIST:START -->
 
+- [Introduction to QML](https://rvbug.hashnode.dev/introduction-to-qml)
 - [Dotfile Management](https://rvbug.hashnode.dev/productivity-series-ii-dotfiles)
 - [ML Cookie-Cutter v 2.0](https://rvbug.hashnode.dev/ml-cookie-cutter-v-20)
 - [Configuring Neovim IDE](https://rvbug.hashnode.dev/configuring-neovim)  

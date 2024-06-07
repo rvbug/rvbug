@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Rust-000?&logo=Rust">
   <img src="https://img.shields.io/badge/-Python-000?&logo=Python">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style-plastic-green&logo=lua&logoColor=white">
-  <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style-plastic-green&logo=ocaml&logoColor=white">
+<!--  <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style-plastic-green&logo=ocaml&logoColor=white"> -->
   <img src="https://img.shields.io/badge/swift-F54A2A?style-plastic-green&logo=swift&logoColor=white">
 </p>
 

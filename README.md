@@ -10,10 +10,13 @@
 
 ## Contact @
 <p align="center"> <img src="https://img.shields.io/badge/Rakesh-00aced.svg?style=flat&logo=linkedin"> 
-<img src="https://img.shields.io/badge/Twitter-@rvbugged-181717.svg?style=flat&logo=Twitter"> 
+<!-- <img src="https://img.shields.io/badge/Twitter-@rvbugged-181717.svg?style=flat&logo=Twitter">  -->
 <a href="https://qubitai.in/" target="_blank">
   <img src=https://img.shields.io/badge/www-QuBitAi.in-blue">
 </a>
+  <a href="mailto:qubitai.in@icloud.com">
+    <img src=https://img.shields.io/badge/@-email-blue">
+  </a>
 </p>
 
 ## Tech Stack

@@ -112,7 +112,7 @@ I write about Quantum Computing, ML, Productivity tools, and software developmen
 - [DeepSeek PTX](https://qubitai.in/qscribe-docs/posts/LLMs/DeepSeekPTX.html) - How DeepSeek utilizes PTX 
 - [Dotfile Management](https://qubitai.in/qscribe-docs/posts/QuantumGravity/Dotfiles.html) - Productivity Series II
 - [Neovim Setup](https://qubitai.in/qscribe-docs/posts/QuantumGravity/neovimide.html) - Setup & Configure Neovim as your IDE
-- [ML Cookie-Cutter v 2.0]([https://qubitai.in/ml-cookie-cutter-v2](https://qubitai.in/qscribe-docs/posts/QuantumGravity/CookieCutterv2.html))
+- [ML Cookie-Cutter v 2.0](https://qubitai.in/qscribe-docs/posts/QuantumGravity/CookieCutterv2.html) - Structure your Data Science and ML project
 
 [Read more on my blog →](https://qubitai.in/qscribe-docs/) 
 

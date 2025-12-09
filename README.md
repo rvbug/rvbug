@@ -1,7 +1,8 @@
 <!--
 <img align="center" width="40%" src="https://github.com/rvbug/rvbug/blob/main/QM.png" /> 
 -->
-<img align="center" width="1200" height="400" alt="kofi-Banner" src="https://github.com/user-attachments/assets/13b8d1b2-9b71-472c-b73b-cddd2951de77" />
+<img width="1200" height="1200" alt="Banner" src="https://github.com/user-attachments/assets/86c7f4a3-d4a3-4337-9abe-1eacd9238ac5" />
+
 <br>
 <h1 align="center">👋 Hello, I'm Rakesh</h1>
 <p align="center">

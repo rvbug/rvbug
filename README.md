@@ -99,11 +99,10 @@
 
 Stay tuned for updates!
 
----
 
-## ✍️ Latest Blog Posts
+<h1 align="center">  Latest Blog Posts </h1>
 
-I write about quantum computing, ML, productivity tools, and software development on my blog at [qubitai.in](https://qubitai.in).
+I write about Quantum Computing, ML, Productivity tools, and software development on my blog at [qubitai.in](https://qubitai.in).
 
 ### Recent Articles
 
@@ -115,27 +114,27 @@ I write about quantum computing, ML, productivity tools, and software developmen
 - [Neovim Setup](https://qubitai.in/qscribe-docs/posts/QuantumGravity/neovimide.html) - Setup & Configure Neovim as your IDE
 - [ML Cookie-Cutter v 2.0]([https://qubitai.in/ml-cookie-cutter-v2](https://qubitai.in/qscribe-docs/posts/QuantumGravity/CookieCutterv2.html))
 
- ###  📖 [Read more on my blog →](https://qubitai.in/qscribe-docs/)
+[Read more on my blog →](https://qubitai.in/qscribe-docs/) 
 
 
 <br> 
 
-## The Book
+<h1 align="center"> The Book </h1>
 
-> ["The Book"](https://qubitai.in/book/) is where I document `Technical Docs`, `Architecture Notes`, and `Design Decisions` for all my projects.
+["The Book"](https://qubitai.in/book/) is where I document `Technical Docs`, `Architecture Notes`, and `Design Decisions` for all my projects.
 
 
 <br>
 
+  <h1 align="center"> GitHub Stats </h1>  
 
-## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/rvbug">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvbug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbug&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=comp426,Redventures-Movie-Quotes"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvbug&theme=tokyonight" alt="GitHub Streak"/>

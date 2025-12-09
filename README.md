@@ -124,8 +124,29 @@ I write about Quantum Computing, ML, Productivity tools, and software developmen
 
 ["The Book"](https://qubitai.in/book/) is where I document `Technical Docs`, `Architecture Notes`, and `Design Decisions` for all my projects.
 
-
 <br>
+
+---
+
+<p align="center">
+  If you find my projects helpful or want to support my research and open-source work:
+</p>
+<p align="center">
+  <a href="https://ko-fi.com/rvbugged">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="40">
+  </a>
+</p>
+<p align="center">
+  <i>Your support helps me dedicate more time to building tools and sharing knowledge with the community!</i>
+</p>
+
+
+
+
+
+
+
+
 
  <!--  <h1 align="center"> GitHub Stats </h1>  -->
 
@@ -154,6 +175,8 @@ If you find my projects helpful, consider supporting me:
 </p>
 
 ---
+
+
 
 <p align="center">
   <i>⚡ "Learning never exhausts the mind." - Leonardo da Vinci</i>

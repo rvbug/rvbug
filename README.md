@@ -127,7 +127,7 @@ I write about Quantum Computing, ML, Productivity tools, and software developmen
 
 <br>
 
-  <h1 align="center"> GitHub Stats </h1>  
+ <!--  <h1 align="center"> GitHub Stats </h1>  -->
 
 
 <!-- <p align="center">
@@ -135,7 +135,7 @@ I write about Quantum Computing, ML, Productivity tools, and software developmen
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvbug&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbug&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=comp426,Redventures-Movie-Quotes"/>
   </a>
-</p> -->
+</p> 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvbug&theme=tokyonight" alt="GitHub Streak"/>

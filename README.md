@@ -82,17 +82,18 @@
 
 
 ### RatCrate Organization
-- ![ratcrate-cli](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[ratcrate-cli](https://crates.io/crates/ratcrate-cli)** - CLI in Rust for discovering & searching crates using Ratatui
-- ![ratcrate-tui](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[ratcrate-tui]()** - Coming Soon
+- ![ratcrate-cli](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[ratcrate-cli](https://crates.io/crates/ratcrate-cli)** - CLI tool in Rust for discovering & searching crates which uses Ratatui
+- ![ratcrate-tui](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[ratcrate-tui]()** - Ratatui app in Rust for discovering & searching crates which uses Ratatui
 - ![ratcrate-web](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[RatCrate web]()** - Coming Soon
+- ![ratcrate-web](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[QBanner]()** - Coming Soon
 
 
 
 ## Upcoming Projects
 
 - [ ] [QPulse](https://qubitai.in/qpulse.html) - A context-aware system - Sign up for early access!
-- [ ] CDO
 - [ ] Rustimator
+- [ ] CDO
 - [ ] QFlow
 - [ ] QSwitch
 - [ ] GitPulse

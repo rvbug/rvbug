@@ -123,7 +123,7 @@ I write about Quantum Computing, ML, Productivity tools, and software developmen
 
 <h1 align="center"> The Book </h1>
 
-[The Book"](https://qubitai.in/book/)  contains all
+[The Book](https://qubitai.in/book/)  contains all
 
 > `Technical Documentation`  
 > `Architecture Principles`  
@@ -134,20 +134,17 @@ I write about Quantum Computing, ML, Productivity tools, and software developmen
 
 ---
 
-<p align="center">
-  If you find my projects helpful or want to support my research and open-source work:
-</p>
+<h1 align="center">  Support My Work </h1>
+<h4 align="center"> If you find my projects helpful or want to support my research and open-source work: </h4>
+
 <p align="center">
   <a href="https://ko-fi.com/rvbugged">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="40">
   </a>
 </p>
 <p align="center">
-  <i>Your support helps me dedicate more time to building tools and sharing knowledge with the community!</i>
+  <!-- <i>Your support helps me dedicate more time to building tools and sharing knowledge with the community!</i> -->
 </p>
-
-
-
 
 
 

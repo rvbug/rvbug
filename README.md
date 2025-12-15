@@ -76,7 +76,7 @@
 - <img width="15" height="15" alt="doc2quarto_onlylogo" src="https://github.com/user-attachments/assets/b26ad052-8060-4a1c-97af-d18b5b58b405" /> **[Doc2Quarto](link)** - Convert Docusaurus `.md` to Quarto's `.qmd` format
 - <img width="15" height="30" alt="Neovim" src="https://github.com/user-attachments/assets/a43ab2b2-4c05-4701-9cfc-b2f747e2af32" />  **[Neovim](https://github.com/rvbug/neovim)** - A blazingly fast IDE setup with custom developer workflow.
 - **[.Dotfiles](https://github.com/rvbug/.dotfiles)** - A sophisticated dotfiles framework for seamless machine setup including DS/ML configuration.
-- <img width="15" height="15" alt="cookieml" src="https://github.com/user-attachments/assets/272402e9-834f-4553-98de-bc330c1b3647" /> **[DS/ML CookieCutter ](link)** - Brief description
+- <img width="15" height="15" alt="cookieml" src="https://github.com/user-attachments/assets/272402e9-834f-4553-98de-bc330c1b3647" /> **[DS/ML CookieCutter ](link)** - Setup Data Science and ML projects 
 
 
 
@@ -122,7 +122,12 @@ I write about Quantum Computing, ML, Productivity tools, and software developmen
 
 <h1 align="center"> The Book </h1>
 
-["The Book"](https://qubitai.in/book/) is where I document `Technical Docs`, `Architecture Notes`, and `Design Decisions` for all my projects.
+[The Book"](https://qubitai.in/book/)  contains all
+
+> `Technical Documentation`  
+> `Architecture Principles`  
+> `Design Decisions`
+
 
 <br>
 

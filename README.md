@@ -59,7 +59,7 @@
 
 <br>
 
-## 📚 Research & Publications
+# 📚 Research & Publications
 
 - **[Cognitive Interaction Optimization Platform (CIOP)](https://qubitai.in/qpapers-published/acon.html)** - Autonmous Command Optimization Network (ACON) captures real-time user behavior, suggests optimized actions, and adapts continuously.
 <!-- <p align="left">
@@ -71,7 +71,7 @@
 
 <br>
 
-## 🚀 Featured Open Source Projects
+# Open Source Projects
 
 - <img width="15" height="15" alt="doc2quarto_onlylogo" src="https://github.com/user-attachments/assets/b26ad052-8060-4a1c-97af-d18b5b58b405" /> **[Doc2Quarto](link)** - Convert Docusaurus `.md` to Quarto's `.qmd` format
 - <img width="15" height="30" alt="Neovim" src="https://github.com/user-attachments/assets/a43ab2b2-4c05-4701-9cfc-b2f747e2af32" />  **[Neovim](https://github.com/rvbug/neovim)** - A blazingly fast IDE setup with custom developer workflow.
@@ -80,8 +80,7 @@
 
 
 
-
-### RatCrate Organization
+# RatCrate - Ratatui Ecosystem
 - ![ratcrate-cli](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[ratcrate-cli](https://crates.io/crates/ratcrate-cli)** - CLI tool in Rust for discovering & searching crates which uses Ratatui
 - ![ratcrate-tui](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[ratcrate-tui]()** - Ratatui app in Rust for discovering & searching crates which uses Ratatui
 - ![ratcrate-web](https://github.com/user-attachments/assets/2c9abe2b-3d8c-4a52-a89c-664e6fb62499) **[RatCrate web]()** - Coming Soon
@@ -121,12 +120,15 @@ I write about Quantum Computing, ML, Productivity tools, and software developmen
 
 <br> 
 
-<h1 align="center"> The Book </h1>
+<h1 align="center"> Documentation </h1>
 
-[The Book](https://qubitai.in/book/)  contains all
+## [The Book](https://qubitai.in/book/)
+`The Book` contains the following : 
 
-> `Technical Documentation`  
-> `Architecture Principles`  
+> `Technical Documentation`
+
+> `Architecture Principles`
+
 > `Design Decisions`
 
 

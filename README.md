@@ -60,15 +60,12 @@
 -->
 
 
-# Product & Research
-
-- **[Rustimate](https://qubitai.in/rustimate.html)** — Visual technical explanation engine for improving developer onboarding and understanding  
-
-- **[ACON](https://qubitai.in/qpapers-published/acon.html)** — Workflow optimization framework applying Keystroke-Level Metrics (KLM) to model developer efficiency and interaction cost  
-
-- **[DIRAC](https://qubitai.in/qpapers-published/dirac_technical_paper.html)** — Framework for quantifying engineering friction, review overhead, and financial impact in AI-driven development systems
+# Research
 
 - **[FERMI](https://qubitai.in/fermi.html)** -  an AI architecture cost simulator modeling Agentic topologies at the microtransaction level to quantify architectural costs and inform technology investment
+
+- **[ORBIT](https://qubitai.in/)** - (Coming Soon) An adaptive agent system to dynamically manage computational agents that achieve objectives under resource and capability constraints
+
 
 <br>
 

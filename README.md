@@ -7,15 +7,15 @@
 <br>
 <h1 align="center">👋 Hello, I'm Rakesh</h1>
 <p align="center">
-  <b>Systems • Applied Research • Developer Productivity</b>
+  <b>Systems • Applied Research • Developer Tools</b>
 </p>
 <p align="center">
-  Building engineering systems that reduce friction and improve how software is built.
+  Building software systems, research prototypes and tools that simlify complex engineering workflows.
 </p>
 
 <p align="center">
-  Designing developer-focused systems, automation tools, and frameworks that improve workflow efficiency and engineering effectiveness.<br><br>
-  Sharing ideas through <a href="https://qubitai.in" target="_blank">QubitAI</a> and technical writing.
+  Exploring systems design, Rust tooling, automation, and applied research.<br><br>
+  More at <a href="https://qubitai.in" target="_blank">QubitAI</a> and in my <a href="https://qubitai.in/write.html" target="_blank">technical writing</a>.
 </p>
 
 <br>
@@ -66,14 +66,18 @@
 
 - **[ACON](https://qubitai.in/qpapers-published/acon.html)** — Workflow optimization framework applying Keystroke-Level Metrics (KLM) to model developer efficiency and interaction cost  
 
-- **[DIRAC](https://qubitai.in/qpapers-published/dirac_technical_paper.html)** — Framework for quantifying engineering friction, review overhead, and financial impact in AI-driven development systems  
+- **[DIRAC](https://qubitai.in/qpapers-published/dirac_technical_paper.html)** — Framework for quantifying engineering friction, review overhead, and financial impact in AI-driven development systems
+
+- **[FERMI](https://qubitai.in/fermi.html)** -  an AI architecture cost simulator modeling Agentic topologies at the microtransaction level to quantify architectural costs and inform technology investment
+
 <br>
 
 
 # Developer Tools
 
 - **Doc2Quarto** — Convert Docusaurus `.md` to Quarto `.qmd`  
-- **Neovim Setup** — Custom IDE workflow for developer productivity  
+- **Neovim Setup** — Custom IDE workflow for developer productivity
+- **Emacs Setup** - Custom IDE with support for Org Mode
 - **Dotfiles** — Reproducible dev environment with DS/ML setup  
 - **cookie-ml** — ML project scaffolding for faster onboarding  
 

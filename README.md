@@ -64,7 +64,7 @@
 
 - **[FERMI](https://qubitai.in/fermi.html)** -  an AI architecture cost simulator modeling Agentic topologies at the microtransaction level to quantify architectural costs and inform technology investment
 
-- **[ORBIT](https://qubitai.in/)** - (Coming Soon) An adaptive agent system to dynamically manage computational agents that achieve objectives under resource and capability constraints
+- **[ORBIT](https://qubitai.in/)** - (Coming Soon) An adaptive agent system to dynamically manage computational agents that achieve objectives under resource constraints
 
 
 <br>
